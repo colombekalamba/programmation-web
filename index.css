@@ -1,0 +1,20 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: #d7ee8e;
+}
+.kolombo
+{
+    width: 50%;
+    height: 90vh;
+}
+.div1
+{
+    display: flex;
+}
+.para1
+{
+    padding: 10px;
+    text-align: justify;
+}
